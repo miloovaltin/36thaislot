@@ -1,0 +1,16 @@
+{
+"name": "36thaislot",
+"theme": "36 thaislot",
+"version": "3.2.6",
+"description": "36 thaislot สมัครเว็บพนันเว็บตรง คนเล่นเยอะ ให้เครดิตฟรี",
+"keywords": [
+"36 thaislot",
+"36 thaislot เครดิตฟรี",
+"36 thaislot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/36thaislot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
